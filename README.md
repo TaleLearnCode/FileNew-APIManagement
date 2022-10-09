@@ -1,4 +1,4 @@
-File New: Build a Fully-Managed and Documented API
+# File New: Build a Fully-Managed and Documented API
 
 ## Abstract
 Azure API Management is a way to create consistent modern API gateways for existing backend services.  It provides an interface for your backend services and APIs while ensuring they are secured, monitored, maintained, well-documented, and published to the cloud.  In this session, we will focus on the how by creating a new Azure API Management instance, configuring API endpoints to be served by the API Management instance, setting up rate-limiting, transforming data coming in and out of the endpoints, providing a portal for developers to intact with the API, and add security and performance.  You will see firsthand how to get the most out of Azure API Management to make your APIs accessible to your internal and external customers.
