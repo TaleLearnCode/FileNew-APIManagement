@@ -1,0 +1,10 @@
+        <set-header name="Content-Location" exists-action="override">
+            <value>@{
+                var newValue = context.Response.Headers.GetValueOrDefault("Content-Location");
+                if (newValue != null)
+                {
+                    newValue = newValue.Replace("rquote2.azurewebsites.net", "apimprairiedevcon.azure-api.net/rQuote-admin");
+                }
+             return newValue;
+            }</value>
+        </set-header>

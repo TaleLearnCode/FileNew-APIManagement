@@ -34,4 +34,4 @@ Starting with nothing, during this session, we will create an Azure API Manageme
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Prairie Dev Con Winnipeg | Winnipeg, MB | June 13, 2023 | 9:45 AM CDT | A4 | Available Afterwards |
+| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | June 13, 2023 | 9:45 AM CDT | A4 | [Slides](Presentations/FileNew-APIManagement-PDCWinnipeg.pdf) |
