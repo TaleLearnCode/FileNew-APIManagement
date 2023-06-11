@@ -1,3 +1,5 @@
+![File New: Build a Fully-Managed and Documented API](Thumbnail.png)
+
 # File New: Build a Fully-Managed and Documented API
 
 ## Abstract
@@ -32,4 +34,4 @@ Starting with nothing, during this session, we will create an Azure API Manageme
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-This session has not been scheduled yet
+| Prairie Dev Con Winnipeg | Winnipeg, MB | June 13, 2023 | 9:45 AM CDT | A4 | Available Afterwards |
