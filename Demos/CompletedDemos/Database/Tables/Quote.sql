@@ -1,0 +1,7 @@
+﻿CREATE TABLE dbo.Quote
+(
+  QuoteId INT           NOT NULL IDENTITY(1,1),
+  Author  NVARCHAR(100) NOT NULL,
+  Content NVARCHAR(300) NOT NULL,
+  CONSTRAINT pkcQuote PRIMARY KEY CLUSTERED (QuoteId)
+)
