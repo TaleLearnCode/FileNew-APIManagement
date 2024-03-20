@@ -34,8 +34,8 @@ Starting with nothing, during this session, we will create an Azure API Manageme
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 22, 2023 | 1:15 PM EDT | Google Cloud Room | Available Afterwards |
-| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | June 13, 2023 | 9:45 AM CDT | A4 | [Slides](Presentations/FileNew-APIManagement-PDCWinnipeg.pdf) |
+| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 22, 2023 | 1:15 PM EDT | Google Cloud Room | [Slides](EventMaterials/FileNew-APIManagement-MITechCon.pdf) |
+| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | June 13, 2023 | 9:45 AM CDT | A4 | [Slides](EventMaterials/FileNew-APIManagement-PDCWinnipeg.pdf) |
 
 ## Resources
 There are no additional resources for this presentation.
